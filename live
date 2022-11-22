@@ -1,19 +1,6 @@
 [
   {
     "leaguename": " World Cup ",
-    "hometeamImg": "https://mygoaltv.xyz//team/Denmark.png",
-    "homeTname": "Denmark",
-    "time": "07:30 PM",
-    "day": "2022-11-22",
-    "awayteamImg": "https://mygoaltv.xyz//team/Tunisia.png",
-    "awayTname": "Tunisia",
-    "golink": "https://mygoaltv.xyz//live/8810189941640",
-    "stwo": "https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1669141162-0-0-cfe291fafd28a2a5351f7de7ea28ce39",
-    "sthree": "https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1669141471-0-0-b48c07be6a3629405dd181dc7150b26f",
-    "sfour": "https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1669141471-0-0-b48c07be6a3629405dd181dc7150b26f"
-  },
-  {
-    "leaguename": " World Cup ",
     "hometeamImg": "https://mygoaltv.xyz//team/Mexico.png",
     "homeTname": "Mexico",
     "time": "10:30 PM",
@@ -21,9 +8,9 @@
     "awayteamImg": "https://mygoaltv.xyz//team/balan.png",
     "awayTname": "Poland",
     "golink": "https://mygoaltv.xyz//live/8810189941635",
-    "stwo": "",
-    "sthree": "",
-    "sfour": ""
+    "stwo": "https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1669153762-0-0-b8d6f95ae8933188d0d10b1f20ef78c7",
+    "sthree": "https://pullalilive.livnvess.com/live/stream-129184.m3u8?auth_key=1669153831-0-0-c1c63058d3c94e43d1f5bc34338d41df",
+    "sfour": "https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1669154071-0-0-af13add523ce1dfd2976a5ab543031e1"
   },
   {
     "leaguename": " World Cup ",
