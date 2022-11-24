@@ -1,19 +1,6 @@
 [
     {
         "leaguename": " World Cup ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Uruguay.png",
-        "homeTname": "Uruguay",
-        "time": "07:30 PM",
-        "day": "2022-11-24",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Hanquoc.png",
-        "awayTname": "South Korea",
-        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941658",
-        "stwo": "https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1669314682-0-0-3354f76cc6242e71939ea9e7ee2eb08e",
-        "sthree": "https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1669315231-0-0-18abe0022abd17b9aa0368e6a6b34337",
-        "sfour": "https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1669314682-0-0-3354f76cc6242e71939ea9e7ee2eb08e"
-    },
-    {
-        "leaguename": " World Cup ",
         "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Bodaonha.png",
         "homeTname": "Portugal",
         "time": "10:30 PM",
@@ -21,9 +8,9 @@
         "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Ghana.png",
         "awayTname": "Ghana",
         "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941659",
-        "stwo": "",
-        "sthree": "",
-        "sfour": ""
+        "stwo": "https://lisa.xonthebeach.net/live/bbconeuk/index.m3u8",
+        "sthree": "https://lisa.xonthebeach.net/live/bbconeuk/index.m3u8",
+        "sfour": "https://lisa.xonthebeach.net/live/bbconeuk/index.m3u8"
     },
     {
         "leaguename": " World Cup ",
