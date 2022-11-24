@@ -1,30 +1,4 @@
-[  
-    {
-        "leaguename": " World Cup ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Taybannha.png",
-        "homeTname": "Spain",
-        "time": "10:30 PM",
-        "day": "2022-11-23",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Costa-Rica.png",
-        "awayTname": "Costa Rica",
-        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941988",
-        "stwo": "https://pullalilive.livnvess.com/live/stream-167414_ld.m3u8?auth_key=1669239631-0-0-148e2c14d383d3b196fb33762f846064",
-        "sthree": "https://pullalilive.livnvess.com/live/stream-147801.m3u8?auth_key=1669239931-0-0-7b6975eceaf30ed1c3e835bdfe6d4a5f",
-        "sfour": "https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1669239871-0-0-a987847dd55598d5b308eb7f143e1f8e"
-    },
-    {
-        "leaguename": " World Cup ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Bi.png",
-        "homeTname": "Belgium",
-        "time": "01:30 AM",
-        "day": "2022-11-23",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Canada.png",
-        "awayTname": "Canada",
-        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941647",
-        "stwo": "",
-        "sthree": "",
-        "sfour": ""
-    },
+[
     {
         "leaguename": " World Cup ",
         "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Thuysy.png",
