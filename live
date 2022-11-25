@@ -1,32 +1,6 @@
 [
     {
         "leaguename": " World Cup ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Bodaonha.png",
-        "homeTname": "Portugal",
-        "time": "10:30 PM",
-        "day": "2022-11-24",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Ghana.png",
-        "awayTname": "Ghana",
-        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941659",
-        "stwo": "https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1669326802-0-0-00deae07133f6c0d7b4c3627cd0da2e4",
-        "sthree": "https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1669326631-0-0-64d069a620d20ad1f348a3d3d0469e9c",
-        "sfour": "https://pullalilive.livnvess.com/live/stream-123226.m3u8?auth_key=1669326631-0-0-fec6c0fd7d279501b314011e90dc3531"
-    },
-    {
-        "leaguename": " World Cup ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Brazil.png",
-        "homeTname": "Brazil",
-        "time": "01:30 AM",
-        "day": "2022-11-24",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Serbia.png",
-        "awayTname": "Serbia",
-        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941653",
-        "stwo": "",
-        "sthree": "",
-        "sfour": ""
-    },
-    {
-        "leaguename": " World Cup ",
         "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Wales.png",
         "homeTname": "Wales",
         "time": "04:30 PM",
@@ -34,9 +8,9 @@
         "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Iran.png",
         "awayTname": "Iran",
         "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941933",
-        "stwo": "",
-        "sthree": "",
-        "sfour": ""
+        "stwo": "https://pullalilive.livnvess.com/live/stream-129184_ld.m3u8?auth_key=1669390171-0-0-9efe48c2b4015f8f9b2625e718c86a2a",
+        "sthree": "'https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1669391131-0-0-a8c6ed01bd507839ab549fe47afc23a2",
+        "sfour": "https://lisa.xonthebeach.net/live/beinsport1fr/index.m3u8"
     },
     {
         "leaguename": " World Cup ",
