@@ -1,19 +1,6 @@
 [
     {
         "leaguename": " World Cup ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Wales.png",
-        "homeTname": "Wales",
-        "time": "04:30 PM",
-        "day": "2022-11-25",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Iran.png",
-        "awayTname": "Iran",
-        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941933",
-        "stwo": "https://pullalilive.livnvess.com/live/stream-129184_ld.m3u8?auth_key=1669390171-0-0-9efe48c2b4015f8f9b2625e718c86a2a",
-        "sthree": "https://lisa.xonthebeach.net/live/telemundo/index.m3u8",
-        "sfour": "https://lisa.xonthebeach.net/live/beinsport1fr/index.m3u8"
-    },
-    {
-        "leaguename": " World Cup ",
         "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Qatar.png",
         "homeTname": "Qatar",
         "time": "07:30 PM",
