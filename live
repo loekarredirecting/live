@@ -1,19 +1,6 @@
 [
     {
         "leaguename": " World Cup ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Tunisia.png",
-        "homeTname": "Tunisia",
-        "time": "04:30 PM",
-        "day": "2022-11-26",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Australia.png",
-        "awayTname": "Australia",
-        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941986",
-        "stwo": "https://lisa.xonthebeach.net/live/beinsport1fr/index.m3u8",
-        "sthree": "https://lisa.xonthebeach.net/live/fs1us/index.m3u8",
-        "sfour": "https://lisa.xonthebeach.net/live/fs1us/index.m3u8"
-    },
-    {
-        "leaguename": " World Cup ",
         "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/balan.png",
         "homeTname": "Poland",
         "time": "07:30 PM",
@@ -21,7 +8,7 @@
         "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Saudi-Arabia.png",
         "awayTname": "Saudi Arabia",
         "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941637",
-        "stwo": "https:\/\/mygoaltv.xyz\/\/live\/8810189941986",
+        "stwo": "https://lisa.xonthebeach.net/live/beinsport1fr/index.m3u8",
         "sthree": "https://lisa.xonthebeach.net/live/fs1us/index.m3u8",
         "sfour": "https://lisa.xonthebeach.net/live/fs1us/index.m3u8"
     },
