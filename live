@@ -21,9 +21,9 @@
         "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Denmark.png",
         "awayTname": "Denmark",
         "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941641",
-        "stwo": "",
-        "sthree": "",
-        "sfour": ""
+        "stwo": "https://lisa.xonthebeach.net/live/beinsport1fr/index.m3u8",
+        "sthree": "https://lisa.xonthebeach.net/live/fs1us/index.m3u8",
+        "sfour": "https://lisa.xonthebeach.net/live/fs1us/index.m3u8"
     },
     {
         "leaguename": " World Cup ",
