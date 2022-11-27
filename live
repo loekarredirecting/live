@@ -1,32 +1,6 @@
 [
     {
         "leaguename": " World Cup ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Phap.png",
-        "homeTname": "France",
-        "time": "10:30 PM",
-        "day": "2022-11-26",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Denmark.png",
-        "awayTname": "Denmark",
-        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941641",
-        "stwo": "https://pullalilive.livnvess.com/live/stream-123226.m3u8?auth_key=1669499011-0-0-da364447f0ca480f2b26e77dcd782cb3",
-        "sthree": "https://pullalilive.livnvess.com/live/stream-167414.m3u8?auth_key=1669498771-0-0-d7ab86be35cdfe42e7e551e57da3ac28",
-        "sfour": "https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1669498891-0-0-7fec4249a0705637eebee492fdbe0530"
-    },
-    {
-        "leaguename": " World Cup ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Argentina.png",
-        "homeTname": "Argentina",
-        "time": "01:30 AM",
-        "day": "2022-11-26",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Mexico.png",
-        "awayTname": "Mexico",
-        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941638",
-        "stwo": "",
-        "sthree": "",
-        "sfour": ""
-    },
-    {
-        "leaguename": " World Cup ",
         "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Nhat.png",
         "homeTname": "Japan",
         "time": "04:30 PM",
