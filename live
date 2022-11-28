@@ -1,19 +1,6 @@
 [
     {
         "leaguename": " World Cup ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Cameroon.png",
-        "homeTname": "Cameroon",
-        "time": "04:30 PM",
-        "day": "2022-11-28",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Serbia.png",
-        "awayTname": "Serbia",
-        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941654",
-        "stwo": "https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1669649872-0-0-e9e5fe61517614ff5a702e9bfe46dba8",
-        "sthree": "https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1669649482-0-0-060baf04656cfcdc96095b751f9c4fec",
-        "sfour": "https://pullalilive.livnvess.com/live/stream-115493.m3u8?auth_key=1669649812-0-0-eebe8bd3d78422bf007ce2af81504f87"
-    },
-    {
-        "leaguename": " World Cup ",
         "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Hanquoc.png",
         "homeTname": "South Korea",
         "time": "07:30 PM",
