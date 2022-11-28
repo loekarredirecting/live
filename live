@@ -1,19 +1,6 @@
 [
     {
         "leaguename": " World Cup ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Hanquoc.png",
-        "homeTname": "South Korea",
-        "time": "07:30 PM",
-        "day": "2022-11-28",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Ghana.png",
-        "awayTname": "Ghana",
-        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941660",
-        "stwo": "https://pullalilive.livnvess.com/live/stream-115493_ld.m3u8?auth_key=1669659589-0-0-68624292f9b8a0858977db316a79e55f",
-        "sthree": "https://pullalilive.livnvess.com/live/stream-118582.m3u8?auth_key=1669660069-0-0-3a0006dce03a5d6c54f47a1eb3765879",
-        "sfour": "https://pullalilive.livnvess.com/live/stream-118582.m3u8?auth_key=1669660069-0-0-3a0006dce03a5d6c54f47a1eb3765879"
-    },
-    {
-        "leaguename": " World Cup ",
         "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Brazil.png",
         "homeTname": "Brazil",
         "time": "10:30 PM",
@@ -21,9 +8,9 @@
         "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Thuysy.png",
         "awayTname": "Switzerland",
         "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941655",
-        "stwo": "",
-        "sthree": "",
-        "sfour": ""
+        "stwo": "https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1669670602-0-0-317ed565b642ecc65c28caceaf666ee5",
+        "sthree": "https://pullalilive.livnvess.com/live/stream-147801.m3u8?auth_key=1669671409-0-0-1a506d51a9f5d8a7edfa547867ce17a2",
+        "sfour": "https://pullalilive.livnvess.com/live/stream-123226.m3u8?auth_key=1669671469-0-0-63c9daf31bdab4e85a7507e3f6caae21"
     },
     {
         "leaguename": " World Cup ",
