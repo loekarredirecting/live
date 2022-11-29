@@ -1,30 +1,5 @@
 [
-    {
-        "leaguename": " World Cup ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Ecuador.png",
-        "homeTname": "Ecuador",
-        "time": "09:30 PM",
-        "day": "2022-11-29",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Senegal.png",
-        "awayTname": "Senegal",
-        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941629",
-        "stwo": "https://pullalilive.livnvess.com/live/stream-160430.m3u8?auth_key=1669753534-0-0-831c851bcc1802b16249dad6ad330071",
-        "sthree": "https://pullalilive.livnvess.com/live/stream-160430.m3u8?auth_key=1669753534-0-0-831c851bcc1802b16249dad6ad330071",
-        "sfour": ""
-    },
-    {
-        "leaguename": " World Cup ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Halan.png",
-        "homeTname": "Netherlands",
-        "time": "09:30 PM",
-        "day": "2022-11-29",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Qatar.png",
-        "awayTname": "Qatar",
-        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941630",
-        "stwo": "https://pullalilive.livnvess.com/live/stream-102933_ld.m3u8?auth_key=1669754674-0-0-e43973c850c9ea6f65fcd41d159b20b2",
-        "sthree": "https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1669754722-0-0-4d065d613eba23ac7df8b155acdbed00",
-        "sfour": "https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1669754614-0-0-84ed17c8702bd1a9e2f5c3d900a464f9"
-    },
+   
     {
         "leaguename": " World Cup ",
         "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Iran.png",
@@ -47,9 +22,9 @@
         "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Anh.png",
         "awayTname": "England",
         "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941934",
-        "stwo": "",
-        "sthree": "",
-        "sfour": ""
+        "stwo": "https://yypull.gdsth.com/live/stream-308116.m3u8?auth_key=1669765462-0-0-434b1cb7f5fac8699dafea8d520f5eb9",
+        "sthree": "https://yypull.gdsth.com/live/stream-308116.m3u8?auth_key=1669765462-0-0-434b1cb7f5fac8699dafea8d520f5eb9",
+        "sfour": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=d9e7c8f16b35e51a5d1618a93729c125&txTime=6386a772"
     },
     {
         "leaguename": " Friendly ",
