@@ -1,44 +1,4 @@
 [
-   
-    {
-        "leaguename": " World Cup ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Iran.png",
-        "homeTname": "Iran",
-        "time": "01:30 AM",
-        "day": "2022-11-29",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/My.png",
-        "awayTname": "USA",
-        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941633",
-        "stwo": "",
-        "sthree": "https://playing.goforfreedomwme.net/live/fs2us_720p/index.m3u8",
-        "sfour": ""
-    },
-    {
-        "leaguename": " World Cup ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Wales.png",
-        "homeTname": "Wales",
-        "time": "01:30 AM",
-        "day": "2022-11-29",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Anh.png",
-        "awayTname": "England",
-        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941934",
-        "stwo": "https://yypull.gdsth.com/live/stream-308116.m3u8?auth_key=1669765462-0-0-434b1cb7f5fac8699dafea8d520f5eb9",
-        "sthree": "https://yypull.gdsth.com/live/stream-308116.m3u8?auth_key=1669765462-0-0-434b1cb7f5fac8699dafea8d520f5eb9",
-        "sfour": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=d9e7c8f16b35e51a5d1618a93729c125&txTime=6386a772"
-    },
-    {
-        "leaguename": " Friendly ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/vietnam_svg.png",
-        "homeTname": "Vietnam",
-        "time": "06:30 PM",
-        "day": "2022-11-30",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/dortmund.png",
-        "awayTname": "Dortmund",
-        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189944111",
-        "stwo": "",
-        "sthree": "",
-        "sfour": ""
-    },
     {
         "leaguename": " World Cup ",
         "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Tunisia.png",
