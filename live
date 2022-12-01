@@ -1,32 +1,6 @@
 [
     {
         "leaguename": " World Cup ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/balan.png",
-        "homeTname": "Poland",
-        "time": "01:30 AM",
-        "day": "2022-11-30",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Argentina.png",
-        "awayTname": "Argentina",
-        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941636",
-        "stwo": "https://pullalilive.livnvess.com/live/stream-116784_ld.m3u8?auth_key=1669854334-0-0-83b88bee8b1429aa9c6f3d1220d12548",
-        "sthree": "https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1669854563-0-0-a3314485b3d1632db025f973520d3a2f",
-        "sfour": "https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1669854563-0-0-a3314485b3d1632db025f973520d3a2f"
-    },
-    {
-        "leaguename": " World Cup ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Saudi-Arabia.png",
-        "homeTname": "Saudi Arabia",
-        "time": "01:30 AM",
-        "day": "2022-11-30",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Mexico.png",
-        "awayTname": "Mexico",
-        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941639",
-        "stwo": "https://pullalilive.livnvess.com/live/stream-201986_ld.m3u8?auth_key=1669855114-0-0-091349a83a3a4a848d62c192bdcae7af",
-        "sthree": "https://pullalilive.livnvess.com/live/stream-114959.m3u8?auth_key=1669854154-0-0-0bc4859f6985914f66bf4194cb711e04",
-        "sfour": "https://pullalilive.livnvess.com/live/stream-114959.m3u8?auth_key=1669854154-0-0-0bc4859f6985914f66bf4194cb711e04"
-    },
-    {
-        "leaguename": " World Cup ",
         "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Canada.png",
         "homeTname": "Canada",
         "time": "09:30 PM",
@@ -78,7 +52,7 @@
         "sfour": ""
     },
     {
-        "leaguename": " World Cup ",
+        "leaguename": " World Cup  ",
         "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Ghana.png",
         "homeTname": "Ghana",
         "time": "09:30 PM",
@@ -125,6 +99,32 @@
         "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Thuysy.png",
         "awayTname": "Switzerland",
         "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941657",
+        "stwo": "",
+        "sthree": "",
+        "sfour": ""
+    },
+    {
+        "leaguename": " World Cup ",
+        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Halan.png",
+        "homeTname": "Netherlands",
+        "time": "09:30 PM",
+        "day": "2022-12-03",
+        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/My.png",
+        "awayTname": "USA",
+        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189944627",
+        "stwo": "",
+        "sthree": "",
+        "sfour": ""
+    },
+    {
+        "leaguename": " World Cup ",
+        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Anh.png",
+        "homeTname": "England",
+        "time": "01:30 AM",
+        "day": "2022-12-04",
+        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Senegal.png",
+        "awayTname": "Senegal",
+        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189944628",
         "stwo": "",
         "sthree": "",
         "sfour": ""
