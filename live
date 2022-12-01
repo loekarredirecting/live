@@ -1,32 +1,6 @@
 [
     {
         "leaguename": " World Cup ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Canada.png",
-        "homeTname": "Canada",
-        "time": "09:30 PM",
-        "day": "2022-12-01",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Morocco.png",
-        "awayTname": "Morocco",
-        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941650",
-        "stwo": "https://pullalilive.livnvess.com/live/stream-123226.m3u8?auth_key=1669928254-0-0-c74a41fc05b3aaf62663d01c7dd4dc45",
-        "sthree": "https://sports01.livnvess.com/live/stream-190631.m3u8",
-        "sfour": "https://sports01.livnvess.com/live/stream-121256.m3u8"
-    },
-    {
-        "leaguename": " World Cup ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Croatia.png",
-        "homeTname": "Croatia",
-        "time": "09:30 PM",
-        "day": "2022-12-01",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Bi.png",
-        "awayTname": "Belgium",
-        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941651",
-        "stwo": "https://yypull.gdsth.com/live/stream-551899.m3u8?auth_key=1669927583-0-0-d8f20936e28d9ca3c9c4c41cfa73dd05",
-        "sthree": "https://pullalilive.livnvess.com/live/stream-168740.m3u8?auth_key=1669927654-0-0-cea8a260b32b11ff67e5285ec9ab943c",
-        "sfour": "https://playing.smoothlikebutterstream.com/live/fs1us_720p/index.m3u8"
-    },
-    {
-        "leaguename": " World Cup ",
         "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Nhat.png",
         "homeTname": "Japan",
         "time": "01:30 AM",
