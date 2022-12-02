@@ -1,18 +1,5 @@
 [
     {
-        "leaguename": " World Cup  ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Ghana.png",
-        "homeTname": "Ghana",
-        "time": "09:30 PM",
-        "day": "2022-12-02",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Uruguay.png",
-        "awayTname": "Uruguay",
-        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941662",
-        "stwo": "",
-        "sthree": "",
-        "sfour": ""
-    },
-    {
         "leaguename": " World Cup ",
         "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Hanquoc.png",
         "homeTname": "South Korea",
@@ -21,6 +8,19 @@
         "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Bodaonha.png",
         "awayTname": "Portugal",
         "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941663",
+        "stwo": "",
+        "sthree": "",
+        "sfour": ""
+    },
+    {
+        "leaguename": " World Cup  ",
+        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Ghana.png",
+        "homeTname": "Ghana",
+        "time": "09:30 PM",
+        "day": "2022-12-02",
+        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Uruguay.png",
+        "awayTname": "Uruguay",
+        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941662",
         "stwo": "",
         "sthree": "",
         "sfour": ""
