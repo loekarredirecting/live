@@ -14,6 +14,32 @@
     },
     {
         "leaguename": " World Cup ",
+        "hometeamImg": "https://mygoaltv.xyz//team/Argentina.png",
+        "homeTname": "Argentina",
+        "time": "01:30 AM",
+        "day": "2022-12-03",
+        "awayteamImg": "https://mygoaltv.xyz//team/Australia.png",
+        "awayTname": "Australia",
+        "golink": "https://mygoaltv.xyz//live/8810189944630",
+        "stwo": "http://sample.vodobox.net/skate_phantom_flex_4k/skate_phantom_flex_4k.m3u8",
+        "sthree": "http://media1.mycinema.asia/media/films/Bridge.of.the.Doomed.2022.360p/Bridge.of.the.Doomed.2022.360p.m3u8",
+        "sfour": ""
+   },
+   {
+        "leaguename": " World Cup ",
+        "hometeamImg": "https://mygoaltv.xyz//team/Phap.png",
+        "homeTname": "France",
+        "time": "09:30 PM",
+        "day": "2022-12-04",
+        "awayteamImg": "https://mygoaltv.xyz//team/balan.png",
+        "awayTname": "Poland",
+        "golink": "https://mygoaltv.xyz//live/8810189944629",
+        "stwo": "http://sample.vodobox.net/skate_phantom_flex_4k/skate_phantom_flex_4k.m3u8",
+        "sthree": "http://media1.mycinema.asia/media/films/Bridge.of.the.Doomed.2022.360p/Bridge.of.the.Doomed.2022.360p.m3u8",
+        "sfour": ""
+    },
+    {
+        "leaguename": " World Cup ",
         "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Anh.png",
         "homeTname": "England",
         "time": "01:30 AM",
