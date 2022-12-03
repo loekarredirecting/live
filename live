@@ -1,58 +1,6 @@
 [
     {
         "leaguename": " World Cup ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Hanquoc.png",
-        "homeTname": "South Korea",
-        "time": "09:30 PM",
-        "day": "2022-12-02",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Bodaonha.png",
-        "awayTname": "Portugal",
-        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941663",
-        "stwo": "https://yypull.gdsth.com/live/stream-423912.m3u8?auth_key=1670013503-0-0-ecf53b0c6bdc6dde9ebc201d3e710130",
-        "sthree": "https://playing.whydontyoustreamwme.com/live/bbconeuk_720p/index.m3u8",
-        "sfour": "https://playing.tunnelcdnsw.net/live/bbconeuk/index.m3u8"
-    },
-    {
-        "leaguename": " World Cup  ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Ghana.png",
-        "homeTname": "Ghana",
-        "time": "09:30 PM",
-        "day": "2022-12-02",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Uruguay.png",
-        "awayTname": "Uruguay",
-        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941662",
-        "stwo": "https://yypull.gdsth.com/live/stream-282956.m3u8?auth_key=1670013563-0-0-97ae5ac32ebd3b5965bd3bbe5a4a9dd6",
-        "sthree": "https://playing.smoothlikebutterstream.com/live/bbctwouk_720p/index.m3u8",
-        "sfour": "https://playing.smoothlikebutterstream.com/live/bbctwouk_720p/index.m3u8"
-    },
-    {
-        "leaguename": " World Cup ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Cameroon.png",
-        "homeTname": "Cameroon",
-        "time": "01:30 AM",
-        "day": "2022-12-02",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Brazil.png",
-        "awayTname": "Brazil",
-        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941656",
-        "stwo": "",
-        "sthree": "",
-        "sfour": ""
-    },
-    {
-        "leaguename": " World Cup ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Serbia.png",
-        "homeTname": "Serbia",
-        "time": "01:30 AM",
-        "day": "2022-12-02",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Thuysy.png",
-        "awayTname": "Switzerland",
-        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189941657",
-        "stwo": "",
-        "sthree": "",
-        "sfour": ""
-    },
-    {
-        "leaguename": " World Cup ",
         "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Halan.png",
         "homeTname": "Netherlands",
         "time": "09:30 PM",
