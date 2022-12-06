@@ -1,21 +1,6 @@
 [
     {
         "leaguename": " World Cup ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Morocco.png",
-        "homeTname": "Morocco",
-        "time": "live   ",
-        "day": "2022-12-06",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Taybannha.png",
-        "awayTname": "Spain",
-        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189944631",
-        "stwo": "https://sports01.livnvess.com/live/stream-168740.m3u8",
-        "sthree": "https://sports01.livnvess.com/live/stream-114959.m3u8",
-        "sfour": "https://sports01.livnvess.com/live/stream-114959.m3u8",
-        "sdone": "https://pullalilive.livnvess.com/live/stream-123226_ld.m3u8",
-        "sdtwo": "https://pullalilive.livnvess.com/live/stream-123226_ld.m3u8"
-    },
-    {
-        "leaguename": " World Cup ",
         "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Bodaonha.png",
         "homeTname": "Portugal",
         "time": "01:30 AM",
@@ -23,9 +8,9 @@
         "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Thuysy.png",
         "awayTname": "Switzerland",
         "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189944642",
-        "stwo": "",
-        "sthree": "",
-        "sfour": "",
+        "stwo": "https://sports01.livnvess.com/live/stream-168740.m3u8",
+        "sthree": "https://pullalilive.livnvess.com/live/stream-123226_ld.m3u8",
+        "sfour": "https://sports01.livnvess.com/live/stream-114959.m3u8",
         "sdone": "",
         "sdtwo": ""
     },
