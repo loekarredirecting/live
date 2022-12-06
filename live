@@ -1,19 +1,6 @@
 [
     {
         "leaguename": " World Cup ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Brazil.png",
-        "homeTname": "Brazil",
-        "time": "01:30 AM",
-        "day": "2022-12-05",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Hanquoc.png",
-        "awayTname": "South Korea",
-        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189944641",
-        "stwo": "https://pullalilive.livnvess.com/live/stream-123226.m3u8",
-        "sthree": "https://pullalilive.livnvess.com/live/stream-201986.m3u8",
-        "sfour": "https://pullalilive.livnvess.com/live/stream-123226.m3u8"
-    },
-    {
-        "leaguename": " World Cup ",
         "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Morocco.png",
         "homeTname": "Morocco",
         "time": "09:30 PM",
@@ -23,7 +10,9 @@
         "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189944631",
         "stwo": "",
         "sthree": "",
-        "sfour": ""
+        "sfour": "",
+        "sdone": "",
+        "sdtwo": ""
     },
     {
         "leaguename": " World Cup ",
@@ -36,7 +25,9 @@
         "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189944642",
         "stwo": "",
         "sthree": "",
-        "sfour": ""
+        "sfour": "",
+        "sdone": "",
+        "sdtwo": ""
     },
     {
         "leaguename": " World Cup ",
@@ -49,7 +40,9 @@
         "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189944647",
         "stwo": "",
         "sthree": "",
-        "sfour": ""
+        "sfour": "",
+        "sdone": "",
+        "sdtwo": ""
     },
     {
         "leaguename": " World Cup ",
@@ -62,6 +55,8 @@
         "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189944648",
         "stwo": "",
         "sthree": "",
-        "sfour": ""
+        "sfour": "",
+        "sdone": "",
+        "sdtwo": ""
     }
 ]
