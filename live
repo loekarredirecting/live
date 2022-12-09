@@ -1,4 +1,35 @@
 [
+   
+    {
+        "leaguename": " World Cup ",
+        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Croatia.png",
+        "homeTname": "Croatia",
+        "time": "09:30 PM",
+        "day": "2022-12-09",
+        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Brazil.png",
+        "awayTname": "Brazil",
+        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189944649",
+        "stwo": "",
+        "sthree": "",
+        "sfour": "",
+        "sdone": "",
+        "sdtwo": ""
+    },
+    {
+        "leaguename": " World Cup ",
+        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Halan.png",
+        "homeTname": "Netherlands",
+        "time": "01:30 AM",
+        "day": "2022-12-09",
+        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Argentina.png",
+        "awayTname": "Argentina",
+        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189944647",
+        "stwo": "",
+        "sthree": "",
+        "sfour": "",
+        "sdone": "",
+        "sdtwo": ""
+    },
     {
         "leaguename": " World Cup ",
         "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Morocco.png",
