@@ -1,28 +1,32 @@
 [
-   {
-    "leaguename": " World Cup ",
-    "hometeamImg": "https://mygoaltv.xyz//team/Argentina.png",
-    "homeTname": "Argentina",
-    "time": "01:30 AM",
-    "day": "2022-12-13",
-    "awayteamImg": "https://mygoaltv.xyz//team/Croatia.png",
-    "awayTname": "Croatia",
-    "golink": "https://mygoaltv.xyz//live/8810189944676",
-    "stwo": "",
-    "sthree": "",
-    "sfour": ""
-  },
-  {
-    "leaguename": " World Cup ",
-    "hometeamImg": "https://mygoaltv.xyz//team/Phap.png",
-    "homeTname": "France",
-    "time": "01:30 AM",
-    "day": "2022-12-14",
-    "awayteamImg": "https://mygoaltv.xyz//team/Morocco.png",
-    "awayTname": "Morocco",
-    "golink": "https://mygoaltv.xyz//live/8810189944677",
-    "stwo": "",
-    "sthree": "",
-    "sfour": ""
-  }
+    {
+        "leaguename": " World Cup ",
+        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Argentina.png",
+        "homeTname": "Argentina",
+        "time": "01:30 AM",
+        "day": "2022-12-13",
+        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Croatia.png",
+        "awayTname": "Croatia",
+        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189944676",
+        "stwo": "",
+        "sthree": "",
+        "sfour": "",
+        "sdone": "",
+        "sdtwo": ""
+    },
+    {
+        "leaguename": " World Cup ",
+        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Phap.png",
+        "homeTname": "France",
+        "time": "01:30 AM",
+        "day": "2022-12-14",
+        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Morocco.png",
+        "awayTname": "Morocco",
+        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189944677",
+        "stwo": "",
+        "sthree": "",
+        "sfour": "",
+        "sdone": "",
+        "sdtwo": ""
+    }
 ]
