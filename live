@@ -1,49 +1,5 @@
 [
-    {
-        "leaguename": " Serie B ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/brescia.png",
-        "homeTname": "Brescia",
-        "time": "02:00 AM",
-        "day": "2022-12-12",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/parma.png",
-        "awayTname": "Parma",
-        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189944703",
-        "stwo": "",
-        "sthree": "",
-        "sfour": "",
-        "sdone": "",
-        "sdtwo": ""
-    },
-    {
-        "leaguename": " English Championship ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/sunderland.png",
-        "homeTname": "Sunderland",
-        "time": "02:30 AM",
-        "day": "2022-12-12",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/westbrom.png",
-        "awayTname": "West Brom",
-        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189944702",
-        "stwo": "",
-        "sthree": "",
-        "sfour": "",
-        "sdone": "",
-        "sdtwo": ""
-    },
-    {
-        "leaguename": " La Liga 2 ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Alaves.png",
-        "homeTname": "Alaves",
-        "time": "02:30 AM",
-        "day": "2022-12-12",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Levante.png",
-        "awayTname": "Levante",
-        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189944704",
-        "stwo": "",
-        "sthree": "",
-        "sfour": "",
-        "sdone": "",
-        "sdtwo": ""
-    },
+  
     {
         "leaguename": " World Cup ",
         "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Argentina.png",
