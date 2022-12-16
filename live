@@ -1,4 +1,21 @@
-[
+[   
+    {
+    "leaguename": " Friendly ",
+    "hometeamImg": "https://mygoaltv.xyz//team/liverpool.png",
+    "homeTname": "Liverpool",
+    "time": "10:00 PM",
+    "day": "2022-12-16",
+    "awayteamImg": "https://mygoaltv.xyz//team/acmilan.png",
+    "awayTname": "AC Milan",
+    "golink": "https://mygoaltv.xyz//live/8810189944708",
+    "stwo": "",
+    "sthree": "",
+    "sfour": "",
+    "sdone": "",
+    "sdtwo": "",
+    "five": "",
+    "six": ""
+  },
     {
     "leaguename": " World Cup ",
     "hometeamImg": "https://mygoaltv.xyz//team/Croatia.png",
