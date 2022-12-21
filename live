@@ -1,26 +1,9 @@
 [
     {
-        "leaguename": " A-League ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/CC-Mariners.gif",
-        "homeTname": "Central Coast",
-        "time": "02:30 PM",
-        "day": "2022-12-21",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Newcastle-Jets.gif",
-        "awayTname": "Newcastle Jets",
-        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189944760",
-        "stwo": "",
-        "sthree": "",
-        "sfour": "",
-        "sdone": "",
-        "sdtwo": "",
-        "five": "",
-        "six": ""
-    },
-    {
         "leaguename": " AFF Cup ",
         "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Myanmar_flag_300.png",
         "homeTname": "Myanmar",
-        "time": "04:30 PM",
+        "time": "live ",
         "day": "2022-12-21",
         "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Malaysia.png",
         "awayTname": "Malaysia",
