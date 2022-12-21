@@ -1,22 +1,5 @@
 [
     {
-        "leaguename": " AFF Cup ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Lao-flag.png",
-        "homeTname": "Laos",
-        "time": "live ",
-        "day": "2022-12-21",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/vietnam_svg.png",
-        "awayTname": "Vietnam",
-        "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189944685",
-        "stwo": "https://sports01.livnvess.com/live/stream-147801.m3u8",
-        "sthree": "https://sports01.livnvess.com/live/stream-147801.m3u8",
-        "sfour": "",
-        "sdone": "",
-        "sdtwo": "",
-        "five": "",
-        "six": ""
-    },
-    {
         "leaguename": " Friendly ",
         "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/napoli.png",
         "homeTname": "Napoli",
