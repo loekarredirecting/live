@@ -4,26 +4,34 @@
         "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/manchestercity.png",
         "homeTname": "Manchester City",
         "time": "02:30 AM",
-        "day": "2022-12-23",
+        "day": "2022-12-22",
         "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/liverpool.png",
         "awayTname": "Liverpool",
         "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189944640",
         "stwo": "",
         "sthree": "",
-        "sfour": ""
+        "sfour": "",
+        "sdone": "",
+        "sdtwo": "",
+        "five": "",
+        "six": ""
     },
     {
         "leaguename": " Copa del Rey ",
         "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/no-logo.png",
         "homeTname": "Arenteiro",
         "time": "02:30 AM",
-        "day": "2022-12-23",
+        "day": "2022-12-22",
         "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Atletico_Madrid.png",
         "awayTname": "Atletico Madrid",
         "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189944767",
         "stwo": "",
         "sthree": "",
-        "sfour": ""
+        "sfour": "",
+        "sdone": "",
+        "sdtwo": "",
+        "five": "",
+        "six": ""
     },
     {
         "leaguename": " Premier League ",
@@ -36,7 +44,11 @@
         "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189944666",
         "stwo": "",
         "sthree": "",
-        "sfour": ""
+        "sfour": "",
+        "sdone": "",
+        "sdtwo": "",
+        "five": "",
+        "six": ""
     },
     {
         "leaguename": " Premier League ",
@@ -49,7 +61,11 @@
         "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189944671",
         "stwo": "",
         "sthree": "",
-        "sfour": ""
+        "sfour": "",
+        "sdone": "",
+        "sdtwo": "",
+        "five": "",
+        "six": ""
     },
     {
         "leaguename": " Premier League ",
@@ -62,6 +78,10 @@
         "golink": "https:\/\/mygoaltv.xyz\/\/live\/8810189944672",
         "stwo": "",
         "sthree": "",
-        "sfour": ""
+        "sfour": "",
+        "sdone": "",
+        "sdtwo": "",
+        "five": "",
+        "six": ""
     }
 ]
