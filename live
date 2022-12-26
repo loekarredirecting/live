@@ -10,28 +10,28 @@
     "golink": "https://mygoaltv.xyz//live/8810189944667",
     "stwo": "https://yytcpull.gdsth.com/live/stream-551866.m3u8",
     "sthree": "https://sports01.livnvess.com/live/stream-121256.m3u8",
-    "sfour": "",
+    "sfour": "https://sports01.livnvess.com/live/stream-121256.m3u8",
     "sdone": "",
     "sdtwo": "",
-    "five": "",
-    "six": ""
+    "five": "https://sports01.livnvess.com/live/stream-121256.m3u8",
+    "six": "https://sports01.livnvess.com/live/stream-121256.m3u8"
   },
   {
     "leaguename": " Premier League ",
     "hometeamImg": "https://mygoaltv.xyz//team/everton.png",
     "homeTname": "Everton",
-    "time": "live",
+    "time": "live ",
     "day": "2022-12-26",
     "awayteamImg": "https://mygoaltv.xyz//team/Wolverhampton.png",
     "awayTname": "Wolverhampton",
     "golink": "https://mygoaltv.xyz//live/8810189944668",
     "stwo": "https://sports01.livnvess.com/live/stream-121272.m3u8",
     "sthree": "https://sports01.livnvess.com/live/stream-121272.m3u8",
-    "sfour": "",
-    "sdone": "",
+    "sfour": "https://sports01.livnvess.com/live/stream-121272.m3u8",
+    "sdone": "https://sports01.livnvess.com/live/stream-121272.m3u8",
     "sdtwo": "",
-    "five": "",
-    "six": ""
+    "five": "https://sports01.livnvess.com/live/stream-121272.m3u8",
+    "six": "https://sports01.livnvess.com/live/stream-121272.m3u8"
   },
   {
     "leaguename": " Premier League ",
@@ -44,11 +44,11 @@
     "golink": "https://mygoaltv.xyz//live/8810189944669",
     "stwo": "https://sports01.livnvess.com/live/stream-123226.m3u8",
     "sthree": "https://sports01.livnvess.com/live/stream-129184.m3u8",
-    "sfour": "",
+    "sfour": "https://sports01.livnvess.com/live/stream-129184.m3u8",
     "sdone": "",
     "sdtwo": "",
-    "five": "",
-    "six": ""
+    "five": "https://sports01.livnvess.com/live/stream-129184.m3u8",
+    "six": "https://sports01.livnvess.com/live/stream-129184.m3u8"
   },
   {
     "leaguename": " Premier League ",
@@ -61,11 +61,11 @@
     "golink": "https://mygoaltv.xyz//live/8810189944670",
     "stwo": "https://yytcpull.gdsth.com/live/stream-553612.m3u8",
     "sthree": "https://yytcpull.gdsth.com/live/stream-535588.m3u8",
-    "sfour": "",
+    "sfour": "https://yytcpull.gdsth.com/live/stream-535588.m3u8",
     "sdone": "",
     "sdtwo": "",
-    "five": "",
-    "six": ""
+    "five": "https://yytcpull.gdsth.com/live/stream-535588.m3u8",
+    "six": "https://yytcpull.gdsth.com/live/stream-535588.m3u8"
   },
   {
     "leaguename": " English Championship ",
