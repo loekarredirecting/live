@@ -110,13 +110,13 @@
     "awayteamImg": "https://mygoaltv.xyz//team/Wigan_Athletic.png",
     "awayTname": "Wigan",
     "golink": "https://mygoaltv.xyz//live/8810189944772",
-    "stwo": "",
-    "sthree": "",
-    "sfour": "",
-    "sdone": "",
-    "sdtwo": "",
-    "five": "",
-    "six": ""
+    "stwo": "https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1672090448-0-0-4c278e87a7a23128eabea294566ea68f",
+    "sthree": "https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1672090448-0-0-4c278e87a7a23128eabea294566ea68f",
+    "sfour": "https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1672090448-0-0-4c278e87a7a23128eabea294566ea68f",
+    "sdone": "https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1672090448-0-0-4c278e87a7a23128eabea294566ea68f",
+    "sdtwo": "https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1672090448-0-0-4c278e87a7a23128eabea294566ea68f",
+    "five": "https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1672090448-0-0-4c278e87a7a23128eabea294566ea68f",
+    "six": "https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1672090448-0-0-4c278e87a7a23128eabea294566ea68f"
   },
   {
     "leaguename": " English Championship ",
