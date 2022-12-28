@@ -1,39 +1,6 @@
 [
    
-    {
-        "leaguename": " Premier League ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/manchesterunited.png",
-        "homeTname": "Manchester United",
-        "time": "live ",
-        "day": "2022-12-27",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/nottingham_forest.png",
-        "awayTname": "Nottingham Forest",
-        "golink": "https://srvccc.rise2549blood.xyz/kaynakstreamradarco/26/naxi/caxi.m3u8",
-        "stwo": "https://yypull.gdsth.com/live/stream-551876_ld.m3u8?auth_key=1672191009-0-0-0c888392585cdf4983677d1dd1866b5b",
-        "sthree": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8",
-        "sfour": "https://sports01.livnvess.com/live/stream-121256.m3u8?txSecret=54886d43a31c63eec4913b4a3a844afb&txTime=63ab9cb6",
-        "sdone": "https://yypull.gdsth.com/live/stream-551876.m3u8?auth_key=1672191009-0-0-ebc583da41359394d11da92813c03183",
-        "sdtwo": "https://yypull.gdsth.com/live/stream-551876.m3u8?auth_key=1672191009-0-0-ebc583da41359394d11da92813c03183",
-        "five": "https://yypull.gdsth.com/live/stream-551876.m3u8?auth_key=1672191009-0-0-ebc583da41359394d11da92813c03183",
-        "six": "https://wwpps22wwa.azureedge.net/live/usa/chunks.m3u8"
-    },
-    {
-        "leaguename": " English Championship ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Burnley.gif",
-        "homeTname": "Burnley",
-        "time": "live ",
-        "day": "2022-12-27",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Birmingham.gif",
-        "awayTname": "Birmingham",
-        "golink": "https://yypull.gdsth.com/live/stream-482183.m3u8?auth_key=1672192929-0-0-a4c47341ef48a7f6d0a50b804cb291cd",
-        "stwo": "https://yypull.gdsth.com/live/stream-482183.m3u8?auth_key=1672192929-0-0-a4c47341ef48a7f6d0a50b804cb291cd",
-        "sthree": "https://yypull.gdsth.com/live/stream-482183.m3u8?auth_key=1672192929-0-0-a4c47341ef48a7f6d0a50b804cb291cd",
-        "sfour": "https://yypull.gdsth.com/live/stream-482183.m3u8?auth_key=1672192929-0-0-a4c47341ef48a7f6d0a50b804cb291cd",
-        "sdone": "https://yypull.gdsth.com/live/stream-482183.m3u8?auth_key=1672192929-0-0-a4c47341ef48a7f6d0a50b804cb291cd",
-        "sdtwo": "https://yypull.gdsth.com/live/stream-482183.m3u8?auth_key=1672192929-0-0-a4c47341ef48a7f6d0a50b804cb291cd",
-        "five": "https://yypull.gdsth.com/live/stream-482183.m3u8?auth_key=1672192929-0-0-a4c47341ef48a7f6d0a50b804cb291cd",
-        "six": "https://yypull.gdsth.com/live/stream-482183.m3u8?auth_key=1672192929-0-0-a4c47341ef48a7f6d0a50b804cb291cd"
-    },
+    
     {
         "leaguename": " Ligue 1 ",
         "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Ajaccio.png",
