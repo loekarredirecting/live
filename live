@@ -43,13 +43,13 @@
     "awayteamImg": "https://mygoaltv.xyz//team/Leeds_Utd.gif",
     "awayTname": "Leeds",
     "golink": "https://yypull.gdsth.com/live/stream-3378908.m3u8?auth_key=1672499769-0-0-6a5e5df6b3b218eb42dcd4f5ef35856a",
-    "stwo": "",
+    "stwo": "https://yypull.gdsth.com/live/stream-2412304_ld.m3u8?auth_key=1672518610-0-0-167b08f17601891315b93151db7f42ab",
     "sthree": "https://yypull.gdsth.com/live/stream-3378908.m3u8?auth_key=1672499769-0-0-6a5e5df6b3b218eb42dcd4f5ef35856a",
     "sfour": "https://sports01.livnvess.com/live/stream-143449.m3u8?txSecret=9d01497b24c2cb2f49bd43be7d3e6bad&txTime=63b09a5b",
     "sdone": "https://yypull.gdsth.com/live/stream-2412304_ld.m3u8?auth_key=1672518610-0-0-167b08f17601891315b93151db7f42ab",
     "sdtwo": "https://yypull.gdsth.com/live/stream-2412304_ld.m3u8?auth_key=1672518610-0-0-167b08f17601891315b93151db7f42ab",
     "five": "https://sports01.livnvess.com/live/stream-143449.m3u8?txSecret=9d01497b24c2cb2f49bd43be7d3e6bad&txTime=63b09a5b",
-    "six": ""
+    "six": "https://wpttwas2s.azureedge.net/live/usa/chunks.m3u8"
   },
   {
     "leaguename": " Premier League ",
@@ -60,13 +60,13 @@
     "awayteamImg": "https://mygoaltv.xyz//team/Crystal-Palace.png",
     "awayTname": "Crystal Palace",
     "golink": "https://yytcpull.gdsth.com/live/stream-2445688.m3u8?txSecret=144a42c8c285277f54ee8218933f8d5b&txTime=63b1504a",
-    "stwo": "",
+    "stwo": "https://yypull.gdsth.com/live/stream-279932_ld.m3u8?auth_key=1672518850-0-0-38b80453595d343ae30e07af7d9195ec",
     "sthree": "https://yytcpull.gdsth.com/live/stream-2445688.m3u8?txSecret=144a42c8c285277f54ee8218933f8d5b&txTime=63b1504a",
     "sfour": "",
     "sdone": "https://yypull.gdsth.com/live/stream-279932_ld.m3u8?auth_key=1672518850-0-0-38b80453595d343ae30e07af7d9195ec",
     "sdtwo": "https://yypull.gdsth.com/live/stream-279932_ld.m3u8?auth_key=1672518850-0-0-38b80453595d343ae30e07af7d9195ec",
     "five": "",
-    "six": ""
+    "six": "https://wpttwas2s.azureedge.net/live/s2/chunks.m3u8"
   },
   {
     "leaguename": " Premier League ",
