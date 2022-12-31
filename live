@@ -1,22 +1,4 @@
 [
-  
-  {
-    "leaguename": " La Liga ",
-    "hometeamImg": "https://mygoaltv.xyz//team/Barcelona.png",
-    "homeTname": "Barcelona",
-    "time": "live ",
-    "day": "2022-12-31",
-    "awayteamImg": "https://mygoaltv.xyz//team/Espanyol.png",
-    "awayTname": "Espanyol",
-    "golink": "https://yypull.gdsth.com/live/stream-3378908.m3u8?auth_key=1672499649-0-0-86edf6d478cb470ad85cd03b8cec9c24",
-    "stwo": "https://yypull.gdsth.com/live/stream-492306.m3u8?auth_key=1672511830-0-0-73ae0924e6dcec236c1f1d00aad1e96a",
-    "sthree": "https://sports01.livnvess.com/live/stream-105131.m3u8?txSecret=29b1b6167a97aeb0a7c0494fd74fb8b2&txTime=63b08363",
-    "sfour": "https://sports01.livnvess.com/live/stream-105131.m3u8?txSecret=29b1b6167a97aeb0a7c0494fd74fb8b2&txTime=63b08363",
-    "sdone": "https://yypull.gdsth.com/live/stream-492306_ld.m3u8?auth_key=1672511830-0-0-147c5a1c0a24e337f325f082c0a39704",
-    "sdtwo": "https://yypull.gdsth.com/live/stream-492306_ld.m3u8?auth_key=1672511830-0-0-147c5a1c0a24e337f325f082c0a39704",
-    "five": "https://wppkska2s.azureedge.net/live/lltv/chunks.m3u8",
-    "six": "https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8"
-  },
   {
     "leaguename": " Premier League ",
     "hometeamImg": "https://mygoaltv.xyz//team/manchestercity.png",
@@ -67,6 +49,23 @@
     "sdtwo": "https://yypull.gdsth.com/live/stream-279932_ld.m3u8?auth_key=1672518850-0-0-38b80453595d343ae30e07af7d9195ec",
     "five": "https://yypull.gdsth.com/live/stream-279932.m3u8?auth_key=1672518850-0-0-deaec362d632d0cfdd4eb0fcccd76c9d",
     "six": "https://wpttwas2s.azureedge.net/live/s2/chunks.m3u8"
+  },
+  {
+    "leaguename": " Premier League ",
+    "hometeamImg": "https://mygoaltv.xyz//team/fulham.png",
+    "homeTname": "Fulham",
+    "time": "09:30 PM",
+    "day": "2022-12-31",
+    "awayteamImg": "https://mygoaltv.xyz//team/southampton.png",
+    "awayTname": "Southampton",
+    "golink": "",
+    "stwo": "",
+    "sthree": "https://sports01.livnvess.com/live/stream-105131.m3u8?txSecret=9072d6a8783ce88f53643ae14a6fe082&txTime=63b099e3",
+    "sfour": "https://sports01.livnvess.com/live/stream-105131.m3u8?txSecret=9072d6a8783ce88f53643ae14a6fe082&txTime=63b099e3",
+    "sdone": "https://yypull.gdsth.com/live/stream-349393_ld.m3u8?auth_key=1672518790-0-0-6de90595e79f6d2cb860ed06b649c6a5",
+    "sdtwo": "https://yypull.gdsth.com/live/stream-349393_ld.m3u8?auth_key=1672518790-0-0-6de90595e79f6d2cb860ed06b649c6a5",
+    "five": "",
+    "six": ""
   },
   {
     "leaguename": " La Liga ",
