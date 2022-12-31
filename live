@@ -1,21 +1,5 @@
 [
-  {
-    "leaguename": " Premier League ",
-    "hometeamImg": "https://mygoaltv.xyz//team/Wolverhampton.png",
-    "homeTname": "Wolverhampton",
-    "time": "live ",
-    "day": "2022-12-31",
-    "awayteamImg": "https://mygoaltv.xyz//team/manchesterunited.png",
-    "awayTname": "Manchester United",
-    "golink": "https://yytcpull.gdsth.com/live/stream-23299678.m3u8?txSecret=d1966f9a16d51b3f0575843bc7cb827f&txTime=63b14df1",
-    "stwo": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=d132a401ece1b70949a20e76b67b13e3&txTime=63b07ab7",
-    "sthree": "https://yytcpull.gdsth.com/live/stream-23299678.m3u8?txSecret=d1966f9a16d51b3f0575843bc7cb827f&txTime=63b14df1",
-    "sfour": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=d132a401ece1b70949a20e76b67b13e3&txTime=63b07ab7",
-    "sdone": "https://yypull.gdsth.com/live/stream-823405_ld.m3u8?auth_key=1672509970-0-0-2054f4c69ea6a93e992a8085a3b10375",
-    "sdtwo": "https://yypull.gdsth.com/live/stream-823405_ld.m3u8?auth_key=1672509970-0-0-2054f4c69ea6a93e992a8085a3b10375",
-    "five": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8",
-    "six": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
-  },
+  
   {
     "leaguename": " La Liga ",
     "hometeamImg": "https://mygoaltv.xyz//team/Barcelona.png",
@@ -32,6 +16,23 @@
     "sdtwo": "https://yypull.gdsth.com/live/stream-492306_ld.m3u8?auth_key=1672511830-0-0-147c5a1c0a24e337f325f082c0a39704",
     "five": "https://wppkska2s.azureedge.net/live/lltv/chunks.m3u8",
     "six": "https://1123139281.cdn.khmer-hd.com/may3HD/playlist.m3u8"
+  },
+  {
+    "leaguename": " Premier League ",
+    "hometeamImg": "https://mygoaltv.xyz//team/manchestercity.png",
+    "homeTname": "Manchester City",
+    "time": "live ",
+    "day": "2022-12-31",
+    "awayteamImg": "https://mygoaltv.xyz//team/everton.png",
+    "awayTname": "Everton",
+    "golink": "https://yypull.gdsth.com/live/stream-3378908.m3u8?auth_key=1672499769-0-0-6a5e5df6b3b218eb42dcd4f5ef35856a",
+    "stwo": "",
+    "sthree": "https://yypull.gdsth.com/live/stream-3378908.m3u8?auth_key=1672499769-0-0-6a5e5df6b3b218eb42dcd4f5ef35856a",
+    "sfour": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=3fac7c45858b217b43761ce8fab8b621&txTime=63b09a1f",
+    "sdone": "",
+    "sdtwo": "",
+    "five": "",
+    "six": ""
   },
   {
     "leaguename": " Premier League ",
@@ -61,23 +62,6 @@
     "golink": "https://yypull.gdsth.com/live/stream-349393.m3u8?auth_key=1672499889-0-0-e6f17e6b8324a42458cf15b819e82f9d",
     "stwo": "",
     "sthree": "https://yypull.gdsth.com/live/stream-349393.m3u8?auth_key=1672499889-0-0-e6f17e6b8324a42458cf15b819e82f9d",
-    "sfour": "",
-    "sdone": "",
-    "sdtwo": "",
-    "five": "",
-    "six": ""
-  },
-  {
-    "leaguename": " Premier League ",
-    "hometeamImg": "https://mygoaltv.xyz//team/manchestercity.png",
-    "homeTname": "Manchester City",
-    "time": "09:30 PM",
-    "day": "2022-12-31",
-    "awayteamImg": "https://mygoaltv.xyz//team/everton.png",
-    "awayTname": "Everton",
-    "golink": "https://yypull.gdsth.com/live/stream-3378908.m3u8?auth_key=1672499769-0-0-6a5e5df6b3b218eb42dcd4f5ef35856a",
-    "stwo": "",
-    "sthree": "https://yypull.gdsth.com/live/stream-3378908.m3u8?auth_key=1672499769-0-0-6a5e5df6b3b218eb42dcd4f5ef35856a",
     "sfour": "",
     "sdone": "",
     "sdtwo": "",
