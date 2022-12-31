@@ -89,7 +89,7 @@
     "leaguename": " La Liga ",
     "hometeamImg": "https://mygoaltv.xyz//team/villarreal.png",
     "homeTname": "Villarreal",
-    "time": "09:45 PM",
+    "time": "live ",
     "day": "2022-12-31",
     "awayteamImg": "https://mygoaltv.xyz//team/Valencia.png",
     "awayTname": "Valencia",
@@ -97,10 +97,10 @@
     "stwo": "",
     "sthree": "",
     "sfour": "",
-    "sdone": "",
-    "sdtwo": "",
-    "five": "",
-    "six": ""
+    "sdone": "https://yypull.gdsth.com/live/stream-435925_ld.m3u8?auth_key=1672518910-0-0-98903fd4ef209c2046e4b37a014b3d8d",
+    "sdtwo": "https://yypull.gdsth.com/live/stream-435925_ld.m3u8?auth_key=1672518910-0-0-98903fd4ef209c2046e4b37a014b3d8d",
+    "five": "http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/322",
+    "six": "http://2015.surf:8080/qwiyJT4YBH/lBcCDVscVm/322"
   },
   {
     "leaguename": " Premier League ",
