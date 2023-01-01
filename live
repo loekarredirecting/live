@@ -25,12 +25,12 @@
         "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/chelsea.png",
         "awayTname": "Chelsea",
         "golink": "",
-        "stwo": "",
+        "stwo": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=1ffc0534b45d8dccba7dae3bfb50fa23&txTime=63b20477",
         "sthree": "https://yytcpull.gdsth.com/live/stream-308116.m3u8?txSecret=e8197ce9536342e9e6c9311a3671f10a&txTime=63b2dafa",
         "sfour": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=7624e06dcfd038cdb35ddd18156788c8&txTime=63b20387",
         "sdone": "https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1672610890-0-0-4d418323987e27d37b1d1c0933e41d9b",
         "sdtwo": "https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1672610890-0-0-4d418323987e27d37b1d1c0933e41d9b",
-        "five": "",
+        "five": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=1ffc0534b45d8dccba7dae3bfb50fa23&txTime=63b20477",
         "six": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
     },
     {
@@ -42,12 +42,12 @@
         "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/psg.png",
         "awayTname": "Paris Saint-Germain",
         "golink": "",
-        "stwo": "",
+        "stwo": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=1ffc0534b45d8dccba7dae3bfb50fa23&txTime=63b20477",
         "sthree": "https://yypull.gdsth.com/live/stream-469322.m3u8?auth_key=1672601170-0-0-07e252b69608809fc38920d149493519",
         "sfour": "",
-        "sdone": "",
-        "sdtwo": "",
-        "five": "",
-        "six": ""
+        "sdone": "https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1672610950-0-0-ca4db94c9ac063fe2d3f78183b2bf2bb",
+        "sdtwo": "https://yypull.gdsth.com/live/stream-286721_ld.m3u8?auth_key=1672610950-0-0-ca4db94c9ac063fe2d3f78183b2bf2bb",
+        "five": "https://sports01.livnvess.com/live/stream-147801.m3u8?txSecret=1ffc0534b45d8dccba7dae3bfb50fa23&txTime=63b20477",
+        "six": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8"
     }
 ]
