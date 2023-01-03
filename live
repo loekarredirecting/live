@@ -42,12 +42,12 @@
         "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Brighton.gif",
         "awayTname": "Brighton",
         "golink": "",
-        "stwo": "",
+        "stwo": "https://yypull.gdsth.com/live/stream-494765_ld.m3u8?auth_key=1672795630-0-0-be4230d89f5e2bb7b93ef5c3ff26cb0e",
         "sthree": "https://yypull.gdsth.com/live/stream-356126.m3u8?auth_key=1672782910-0-0-50c1bfd8511793a1164913f2605c8819",
-        "sfour": "",
-        "sdone": "",
+        "sfour": "https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=4c48d603df2a7c264d1b66069f8b530d&txTime=63b4d8af",
+        "sdone": "https://yypull.gdsth.com/live/stream-494765_ld.m3u8?auth_key=1672795630-0-0-be4230d89f5e2bb7b93ef5c3ff26cb0e",
         "sdtwo": "https://yypull.gdsth.com/live/stream-431228.m3u8?auth_key=1672782970-0-0-f59320e2a778b02cdd70e9310ea4577d",
-        "five": "",
+        "five": "https://sports01.livnvess.com/live/stream-118582.m3u8?txSecret=4c48d603df2a7c264d1b66069f8b530d&txTime=63b4d8af",
         "six": ""
     },
     {
