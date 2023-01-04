@@ -15,7 +15,5 @@
         "sdtwo": "https://yypull.gdsth.com/live/stream-3378908_ld.m3u8?auth_key=1672866191-0-0-9438b54cd5d19daadfe60cab06b64a65",
         "five": "https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=81efe27988a1f5d8e09d49391c8a0f95&txTime=63b6e673",
         "six": "https://yytcpull.gdsth.com/live/stream-551866.m3u8?txSecret=81efe27988a1f5d8e09d49391c8a0f95&txTime=63b6e673"
-    },
-    
-    
+    },  
 ]
