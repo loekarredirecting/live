@@ -1,121 +1,175 @@
 [
-    {
-        "leaguename": " Serie A ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/AS-Roma.png",
-        "homeTname": "AS Roma",
-        "time": "live ",
-        "day": "2023-01-04",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Bologna.png",
-        "awayTname": "Bologna",
-        "golink": "https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8",
-        "stwo": "https://yypull.gdsth.com/live/stream-3378908_ld.m3u8?auth_key=1672866191-0-0-9438b54cd5d19daadfe60cab06b64a65",
-        "sthree": "https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=8ea61400c9b7be7dde89bebda1926ca9&txTime=63b5e9f7",
-        "sfour": "https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=8ea61400c9b7be7dde89bebda1926ca9&txTime=63b5e9f7",
-        "sdone": "https://yypull.gdsth.com/live/stream-3378908_ld.m3u8?auth_key=1672866191-0-0-9438b54cd5d19daadfe60cab06b64a65",
-        "sdtwo": "https://yypull.gdsth.com/live/stream-3378908_ld.m3u8?auth_key=1672866191-0-0-9438b54cd5d19daadfe60cab06b64a65",
-        "five": "https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=8ea61400c9b7be7dde89bebda1926ca9&txTime=63b5e9f7",
-        "six": "https://sports01.livnvess.com/live/stream-114959.m3u8?txSecret=8ea61400c9b7be7dde89bebda1926ca9&txTime=63b5e9f7"
-    },
-    {
-        "leaguename": " Serie A ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/lecce.png",
-        "homeTname": "Lecce",
-        "time": "live ",
-        "day": "2023-01-04",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/lazio.png",
-        "awayTname": "Lazio",
-        "golink": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8",
-        "stwo": "https://yypull.gdsth.com/live/stream-459976_ld.m3u8?auth_key=1672866071-0-0-54430f1d658bda3a0d69f7c25b719d02",
-        "sthree": "https://sports01.livnvess.com/live/stream-105723.m3u8?txSecret=c7171949875f06806aad8341b58cfcab&txTime=63b5ea33",
-        "sfour": "https://sports01.livnvess.com/live/stream-105723.m3u8?txSecret=c7171949875f06806aad8341b58cfcab&txTime=63b5ea33",
-        "sdone": "https://yypull.gdsth.com/live/stream-459976_ld.m3u8?auth_key=1672866071-0-0-54430f1d658bda3a0d69f7c25b719d02",
-        "sdtwo": "https://yypull.gdsth.com/live/stream-459976_ld.m3u8?auth_key=1672866071-0-0-54430f1d658bda3a0d69f7c25b719d02",
-        "five": "https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1672866071-0-0-800a168c75c00f8f1e2e17eaf2a1484a",
-        "six": "https://yypull.gdsth.com/live/stream-459976.m3u8?auth_key=1672866071-0-0-800a168c75c00f8f1e2e17eaf2a1484a"
-    },
-    {
-        "leaguename": " Serie A ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/cremonese.png",
-        "homeTname": "Cremonese",
-        "time": "12:00 AM",
-        "day": "2023-01-04",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Juventus.png",
-        "awayTname": "Juventus",
-        "golink": "https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8",
-        "stwo": "https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1672868411-0-0-e62410bc0ab37df4408e7eb4c2a4584a",
-        "sthree": "https://yytcpull.gdsth.com/live/stream-411882.m3u8?txSecret=4d44debe3b20b96862ae8f472fcc3d75&txTime=63b6f00f",
-        "sfour": "https://yypull.gdsth.com/live/stream-286721.m3u8?auth_key=1672868411-0-0-e62410bc0ab37df4408e7eb4c2a4584a",
-        "sdone": "",
-        "sdtwo": "",
-        "five": "",
-        "six": ""
-    },
-    {
-        "leaguename": " Copa del Rey ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Real_Oviedo.png",
-        "homeTname": "Real Oviedo",
-        "time": "01:30 AM",
-        "day": "2023-01-04",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Atletico_Madrid.png",
-        "awayTname": "Atletico Madrid",
-        "golink": "https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8",
-        "stwo": "",
-        "sthree": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8",
-        "sfour": "",
-        "sdone": "",
-        "sdtwo": "",
-        "five": "",
-        "six": ""
-    },
-    {
-        "leaguename": " Serie A ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/inter_milan.png",
-        "homeTname": "Inter Milan",
-        "time": "02:15 AM",
-        "day": "2023-01-04",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/napoli.png",
-        "awayTname": "Napoli",
-        "golink": "https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8",
-        "stwo": "https://yypull.gdsth.com/live/stream-2376781.m3u8?auth_key=1672868831-0-0-f5befb3f05241450c21c8a3882ec0f47",
-        "sthree": "https://yypull.gdsth.com/live/stream-2376781.m3u8?auth_key=1672868831-0-0-f5befb3f05241450c21c8a3882ec0f47",
-        "sfour": "https://yypull.gdsth.com/live/stream-466384.m3u8?auth_key=1672868951-0-0-2d40d29c282e4f46a2543686e4b56410",
-        "sdone": "",
-        "sdtwo": "",
-        "five": "",
-        "six": ""
-    },
-    {
-        "leaguename": " Premier League ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/Crystal-Palace.png",
-        "homeTname": "Crystal Palace",
-        "time": "02:30 AM",
-        "day": "2023-01-04",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/tottenham.png",
-        "awayTname": "Tottenham",
-        "golink": "https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8",
-        "stwo": "https://yytcpull.gdsth.com/live/stream-411882.m3u8?txSecret=2cbd638b7324f51f5fd8b1f17389b679&txTime=63b6f1b3",
-        "sthree": "https://yytcpull.gdsth.com/live/stream-411882.m3u8?txSecret=2cbd638b7324f51f5fd8b1f17389b679&txTime=63b6f1b3",
-        "sfour": "https://yytcpull.gdsth.com/live/stream-411882.m3u8?txSecret=2cbd638b7324f51f5fd8b1f17389b679&txTime=63b6f1b3",
-        "sdone": "",
-        "sdtwo": "",
-        "five": "",
-        "six": ""
-    },
-    {
-        "leaguename": " Copa del Rey ",
-        "hometeamImg": "https:\/\/mygoaltv.xyz\/\/team\/cf-intercity.png",
-        "homeTname": "CF Intercity",
-        "time": "02:30 AM",
-        "day": "2023-01-04",
-        "awayteamImg": "https:\/\/mygoaltv.xyz\/\/team\/Barcelona.png",
-        "awayTname": "Barcelona",
-        "golink": "https://1123139281.cdn.khmer-hd.com/nenHD/chunks.m3u8",
-        "stwo": "",
-        "sthree": "https://1123139281.cdn.khmer-hd.com/may1HD/playlist.m3u8",
-        "sfour": "",
-        "sdone": "",
-        "sdtwo": "",
-        "five": "",
-        "six": ""
-    }
+{
+"league": " Premier League ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8668_small.png",
+"hteam": "Newcastle",
+"time": " live ",
+"date": "2:00 AM",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/10261_small.png",
+"ateam": "Everton",
+"link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_1.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 FHD",
+"livelink": "https://live.fallax.xyz/hls/pr1/index.m3u8",
+"trylink": "https://soccerinhd.com/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://live.fallax.xyz/hls2/pr1/index.m3u8",
+"trylink": "https://soccerinhd.com/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://pl.snflsb.space/scripts/MTY5MjQ=/caxi2.m3u8",
+"trylink": "https://1stream.soccer/"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://live.vbfast.xyz/316778a020fe1be6ae2c2870b495bfb8/1701999277581/lhsazur/index.m3u8",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel2.m3u8?auth_key=3000001701956209-0-0-06674b5870e1c7c8b5d9a4875c77fd82",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-789274_lhd.m3u8?auth_key=1701959943-0-0-0940154cffd821119c2858bf678488ac&edge_slice=true&user_session_id=ebfcbee65c68866aa2e8cdaeb44d098e&sub_m3u8=true",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "https://ab8b015f73be7afff38f332fb2361575.livehwc3.cn/pull.juqihuo.com/live/stream-789274_lsd.m3u8?auth_key=1701959943-0-0-0940154cffd821119c2858bf678488ac&edge_slice=true&user_session_id=ebfcbee65c68866aa2e8cdaeb44d098e&sub_m3u8=true",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "https://pull.niues.live/live/stream-9912064_lhd.m3u8?auth_key=1701960288-0-0-13b184118e8d0353c38f22149a83a387",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "https://pull.niues.live/live/stream-9912064_lsd.m3u8?auth_key=1701960288-0-0-13b184118e8d0353c38f22149a83a387",
+"trylink": ""
+}
+]
+},
+{
+"league": " Ligue 1 ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8521_small.png",
+"hteam": "Strasbourg",
+"time": " live ",
+"date": "2:00 AM",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/9848_small.png",
+"ateam": "Brest",
+"link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_3.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 HD",
+"livelink": "https://hls.streambtw.com/live/stream_3.m3u8",
+"trylink": ""
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://live.vbfast.xyz/7d41a3aac1a2b3ce452deb052986cbe9/1701999435002/en7hf6r/index.m3u8",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel5.m3u8?auth_key=3000001701956247-0-0-b92739daf13afd45211fbaebcdcddf08",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-689287_lhd.m3u8?sub_m3u8=true&user_session_id=31a84eaa5fae2aad9cb093f7a19f6180&auth_key=1701960063-0-0-dcb29c2d05ee3ca0250b0c1895fbda7a&edge_slice=true",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-689287_lsd.m3u8?sub_m3u8=true&user_session_id=31a84eaa5fae2aad9cb093f7a19f6180&auth_key=1701960063-0-0-dcb29c2d05ee3ca0250b0c1895fbda7a&edge_slice=true",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1701960348-0-0-4b14c715dca846ea82b401b458492332",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1701960348-0-0-4b14c715dca846ea82b401b458492332",
+"trylink": ""
+}
+]
+},
+{
+"league": " Premier League ",
+"himg": "https://images.fotmob.com/image_resources/logo/teamlogo/8586_small.png",
+"hteam": "West Ham",
+"time": " live ",
+"date": "2:45 AM",
+"aimg": "https://images.fotmob.com/image_resources/logo/teamlogo/8654_small.png",
+"ateam": "Tottenham Hotspur",
+"link": [
+{
+"type": "English 1 FHD",
+"livelink": "https://hls.streambtw.com/live/stream_2.m3u8",
+"trylink": ""
+},
+{
+"type": "English 2 FHD",
+"livelink": "https://live.fallax.xyz/hls/pr/index.m3u8",
+"trylink": "https://soccerinhd.com/"
+},
+{
+"type": "English 3 HD",
+"livelink": "https://live.fallax.xyz/hls2/pr/index.m3u8",
+"trylink": "https://soccerinhd.com/"
+},
+{
+"type": "English 4 HD",
+"livelink": "https://jkhdsfj.bfst.live/scripts/MTY5MjU=/caxi2.m3u8",
+"trylink": "https://1stream.soccer/"
+},
+{
+"type": "Vietnam HD",
+"livelink": "https://live.vbfast.xyz/d8cb479cfdb0aca216dcc619c6816408/1701999472198/rchtwtx/index.m3u8",
+"trylink": "https://xlz.plvb.xyz/"
+},
+{
+"type": "Vietnam FHD",
+"livelink": "https://acdn.p2pcdn.xyz/xoilac/channel21.m3u8?auth_key=3000001701956284-0-0-19cdd5c1eb6b17d6c6be4c59eb5d39e9",
+"trylink": ""
+},
+{
+"type": "China HD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-632730_lhd.m3u8?edge_slice=true&auth_key=1701960123-0-0-edb3af9f958783817f85a9edbbde2d37&sub_m3u8=true&user_session_id=03311aa1f59cdec8bb99218039d911af",
+"trylink": ""
+},
+{
+"type": "China SD",
+"livelink": "https://a0504dae9c72cdb02b00ddedf6df4973.livehwc3.cn/pull.juqihuo.com/live/stream-632730_lsd.m3u8?edge_slice=true&auth_key=1701960123-0-0-edb3af9f958783817f85a9edbbde2d37&sub_m3u8=true&user_session_id=03311aa1f59cdec8bb99218039d911af",
+"trylink": ""
+},
+{
+"type": "Soco HD",
+"livelink": "https://pull.niues.live/live/stream-9912048_lhd.m3u8?auth_key=1701960408-0-0-abfbde5990824ce8c376b4e09d886c70",
+"trylink": ""
+},
+{
+"type": "Soco SD",
+"livelink": "https://pull.niues.live/live/stream-9912048_lsd.m3u8?auth_key=1701960408-0-0-abfbde5990824ce8c376b4e09d886c70",
+"trylink": ""
+}
+]
+}
 ]
